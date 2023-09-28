@@ -7,4 +7,4 @@
   - __Secure-1PSIDCC
   - __Secure-1PSIDTS
 
-![image](./.asset/bard.png)
+![image](../.asset/bard.png)

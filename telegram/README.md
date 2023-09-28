@@ -5,4 +5,4 @@
 - type ```/newbot```, set name and id
 - copy token
 
-![image](./.asset/telegram.png)
+![image](../.asset/telegram.png)
