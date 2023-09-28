@@ -6,5 +6,6 @@
   - __Secure-1PSID
   - __Secure-1PSIDCC
   - __Secure-1PSIDTS
+- ```pip install bardapi```
 
 ![image](../.asset/bard.png)
