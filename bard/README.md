@@ -1,7 +1,7 @@
 # Bard
 
 ## API key
-- ```개발자도구``` - ```Application``` - ```Storage``` - ```Cookies``` - https://bard.google.com click
+- ```Developer Tools``` - ```Application``` - ```Storage``` - ```Cookies``` - click ```https://bard.google.com```
 - ```Name``` feature  ```Value``` copy
   - __Secure-1PSID
   - __Secure-1PSIDCC
