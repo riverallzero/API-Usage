@@ -1,6 +1,6 @@
 # 💡API Usage
 - This repository summarizes how to use API with Python.
-- If you see any errors or have any additions, please open an issue.
+- If you have any errors or additions, please open an issue.
 
 ## Contents
 - [azure](https://github.com/riverallzero/API-Usage/blob/main/azure): using ms azure ocr api
